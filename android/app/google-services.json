@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731524657832",
+    "project_id": "uberlike-fa30a",
+    "storage_bucket": "uberlike-fa30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731524657832:android:d86fbd3cad2541ed07089d",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731524657832-bbr7soqj1ru7g25b9ifema6jmbt2to1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6n6P7QeBhsMz_Qv_EmlOSus3chCIli4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731524657832-bbr7soqj1ru7g25b9ifema6jmbt2to1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
